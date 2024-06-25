@@ -1,0 +1,35 @@
+
+Unity Package [2021.3.21f1]
+---------------------------------------------------------------------------
+Packages Installed 
+
+i ) DoTween
+ii) TMP Text
+iii) Cine Machine
+iv ) Recorder
+
+---------------------------------------------------------------------------
+
+
+1) How to change Behavior 
+Edit - > Project Setting - > Behavior->2D/3D
+---------------------------------------------------------------------------
+
+2 ) Shortcut For Generating a a normal font to textmeshpro font is
+
+-select that font
+-and press control + shift + F12
+
+---------------------------------------------------------------------------
+
+Links
+1) Convert Image to Icon 
+https://picflow.com/convert/jpg-to-ico 
+
+2) CineMachine 
+
+Brackeys : https://youtu.be/2jTY11Am0Ig?si=rRKljIgK3H6-rSls
+
+Hollow Knight CineMachine : https://youtu.be/9dzBrLUIF8g?si=rbrBDhfRp_3CecEV
+
+Camera Shake : https://youtu.be/luSVUPU6bK0?si=7MUKpU974RDbd16V
