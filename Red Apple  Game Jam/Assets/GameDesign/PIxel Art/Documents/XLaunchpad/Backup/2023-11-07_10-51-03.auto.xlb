@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts>
+	<item path="D:\OBS\obs-studio\bin\64bit\obs64.exe" text="OBS Studio"/>
+	<item path="D:\Unity Editor\Unity 2021.3.8f1\Editor\Unity.exe" text="Unity 2021.3.8f1" index="1"/>
+	<item path="D:\Unity Editor\2021.3.21f1\Editor\Unity.exe" text="Unity 2021.3.21f1" index="2"/>
+	<item path="D:\Unity Editor\2021.3.16f1\Editor\Unity.exe" text="Unity 2021.3.16f1" index="3"/>
+	<item path="D:\steam\Steam.exe" text="Steam" index="4"/>
+	<item path="D:\ShareX\ShareX.exe" text="ShareX" index="5"/>
+	<item path="D:\ppsspp\PPSSPP\PPSSPPWindows64.exe" text="PPSSPP" index="6"/>
+	<item path="C:\Program Files (x86)\XLaunchpad\XLaunchpad.exe" text="XLaunchpad" index="7"/>
+	<item path="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" text="Microsoft Edge" index="8"/>
+	<item path="C:\Users\ASUS1\AppData\Local\Vivaldi\Application\vivaldi.exe" text="Vivaldi" index="9"/>
+	<item path="C:\Users\ASUS1\AppData\Local\Discord\Update.exe" text="Discord" arguments="--processStart Discord.exe" index="10"/>
+	<item path="C:\Users\ASUS1\AppData\Local\GitHubDesktop\GitHubDesktop.exe" text="GitHub Desktop" index="11"/>
+	<item path="C:\Users\ASUS1\AppData\Local\RealtimeBoard\Miro.exe" text="Miro" index="12"/>
+	<item path="C:\Users\ASUS1\AppData\Local\remove\removebg-desktop.exe" text="remove.bg" index="13"/>
+	<item path="D:\Unity Hub\Unity Hub.exe" text="Unity Hub" index="14"/>
+	<item path="D:\Visual Studio\Common7\IDE\devenv.exe" text="Visual Studio 2022" index="15"/>
+	<item path="D:\Anydesk\AnyDesk.exe" text="AnyDesk" arguments=" --control" index="16"/>
+	<item path="C:\Program Files (x86)\McAfee Security Scan\4.1.375\SSScheduler.exe" text="McAfee Security Scan Plus" index="17"/>
+	<item path="D:\Visual Studio\Common7\IDE\Blend.exe" text="Blend for Visual Studio 2022" index="18"/>
+	<item path="C:\Program Files (x86)\Neat Download Manager\NeatDM.exe" text="Neat Download Manager" index="19"/>
+	<item path="C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe" text="Visual Studio Installer" index="20"/>
+	<item path="C:\Users\ASUS1\AppData\Roaming\Zoom\bin\Zoom.exe" text="Zoom" index="21"/>
+	<item path="C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AdobeGCClient.exe" text="Adobe Genuine Service" index="22"/>
+	<item path="C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" text="Brave" index="23"/>
+	<item path="D:\Droidcam\DroidCamApp.exe" text="DroidCam Client" index="24"/>
+	<item path="C:\Program Files\Google\Chrome\Application\chrome.exe" text="Google Chrome" index="25"/>
+	<item path="D:\Inkscape\bin/inkscape.exe" text="Inkscape" index="26"/>
+	<item path="C:\Program Files (x86)\Microsoft\EdgeWebView\Application\119.0.2151.44\msedgewebview2.exe" text="Microsoft Edge WebView2 Runtime" index="27"/>
+	<item folderGUID="{9DCD9A26-6890-4009-B368-B7047E35856D}" text="Accessories" index="28" isFolder="true">
+		<item path="C:\Windows\system32\mstsc.exe" text="Remote Desktop Connection"/>
+		<item path="C:\Windows\system32\psr.exe" text="Steps Recorder" index="1"/>
+		<item path="C:\Program Files (x86)\Windows Media Player\wmplayer.exe" text="Windows Media Player Legacy" arguments="/prefetch:1" index="2"/>
+		<item path="C:\Program Files (x86)\Windows NT\Accessories\wordpad.exe" text="WordPad" index="3"/>
+		<item path="C:\Windows\system32\charmap.exe" text="Character Map" index="4"/>
+		<item path="C:\Windows\system32\magnify.exe" text="Magnifier" index="5"/>
+		<item path="C:\Windows\system32\cmd.exe" text="Command Prompt" index="6"/>
+	</item>
+</shortcuts>
