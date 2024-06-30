@@ -10,7 +10,9 @@ public class PlayerController2D : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private float jumpForce;
+    public Animator mainPlayerAnim;
 
+    public MuskettenAnim muskettenAnim;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -28,17 +30,21 @@ public class PlayerController2D : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             MoveHorizontal(-1);
+            PlayAnimation(AnimationState.MusketterWalk);
         }
 
         if (Input.GetKey(KeyCode.D))
         {
             MoveHorizontal(1);
+            PlayAnimation(AnimationState.MusketterWalk);
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded) // Check if player is grounded before allowing jump
         {
             Jump();
+            PlayAnimation(AnimationState.MusketterWalk);
         }
+        PlayAnimation(AnimationState.MusketterIdle);
     }
 
 
@@ -70,5 +76,10 @@ public class PlayerController2D : MonoBehaviour
         {
             isGrounded = true;
         }
+    }
+    public void PlayAnimation(AnimationState newState)
+    {
+        string animationName = muskettenAnim.GetAnimationName(newState);
+        mainPlayerAnim.Play(animationName);
     }
 }
